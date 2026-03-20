@@ -22500,3 +22500,4 @@ var listaDeEstados = {
     ]
 }
 
+module.exports =listaDeEstados;
